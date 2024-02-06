@@ -1,6 +1,6 @@
 # Jack Dollar
 
-<img src="Professional Picture.png" width=300>
+<img src="C:\Users\jackc\Downloads\Professional Picture.png" width=300>
 
 [GitHub](https://github.com/JDollar18)
 
